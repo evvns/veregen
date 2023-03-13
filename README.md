@@ -1,3 +1,6 @@
+<p align=left>
+<img src="https://gnaa.world/mib.png" height=120 width=120>
+</p>
 <pre align=center>
  ██▒   █▓▓█████  ██▀███  ▓█████   ▄████ ▓█████  ███▄    █ 
 ▓██░   █▒▓█   ▀ ▓██ ▒ ██▒▓█   ▀  ██▒ ▀█▒▓█   ▀  ██ ▀█   █ 
