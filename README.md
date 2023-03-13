@@ -20,3 +20,7 @@
  I do not claim responsibility for any damages caused by another person using my code. By running my code, you agree to this.
 
 </pre>
+
+<p align=left>
+<img src="https://gnaa.world/mib.png" height=120 width=120>
+</p>
