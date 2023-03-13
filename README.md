@@ -21,6 +21,6 @@
 
 </pre>
 
-<p align=left>
+<p align=center>
 <img src="https://gnaa.world/mib.png" height=120 width=120>
 </p>
